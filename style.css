@@ -1,0 +1,42 @@
+#navitem a:hover{
+    background-color:lightgray;
+    
+}
+
+#navitem a{
+    letter-spacing: 4px;
+}
+#main-br{
+    background-image: url("../photo/architect.jpg");
+    background-size: cover;
+    background-position:bottom center;
+    
+   height:90vh;
+    
+}
+#main-text{
+    background-color: black;
+    opacity: 0.75;
+}
+#about{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about img{
+    filter:grayscale(0.75);
+}
+#about button:hover{
+    background-color: gray;
+
+
+}
+#btn button:hover{
+    background-color: gray;
+
+}
+#map img{width:100%;}
+.f-link a{
+    color: white;
+}
+.f-link a:hover{color: green;}
+
+
